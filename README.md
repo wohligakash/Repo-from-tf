@@ -1,2 +1,2 @@
 # Repo-from-tf
-This repository is created using terraform script
+This repository is created using terraform script :)
